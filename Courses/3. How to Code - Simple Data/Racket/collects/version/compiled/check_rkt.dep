@@ -1,0 +1,1 @@
+("8.8" ta6nt ("e2a84e41ffe3f0375cf64a88e1e24bd6bcc2e9a9" "05e290212227ce6c3a5aee108ecf49da6f7ca706" . "8c5b819801c40337bbc7b1d671c1bcaf867a0985") (collects #"net" #"url-connect.rkt") (collects #"net" #"url.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"version" #"utils.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("39f35516ee90e41dfe2ab1d04329c1d48080b637" "55f4644d7b0d347ff4598eebb5ba05c2e5f62ccc" . "b0c7994c1bb5d75816d0acfaad6e98b6d1db6ef4") (collects #"r6rs" #"private" #"conds.rkt") (collects #"r6rs" #"private" #"exns.rkt") (collects #"rnrs" #"io" #"ports-6.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

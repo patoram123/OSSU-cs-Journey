@@ -1,0 +1,1 @@
+("8.8" ta6nt ("43f894bf58869a343cdd31118b3bb65826850f88" "9df2dab612b0cd34f2f659e9b29e0821b4ba8199" . "e5f6ea2a6f40e25e353865649a114a7a46a9768d") (collects #"lang" #"htdp-reader.rkt") (collects #"mzscheme" #"main.rkt"))

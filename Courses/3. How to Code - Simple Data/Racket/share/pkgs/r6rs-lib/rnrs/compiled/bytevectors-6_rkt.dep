@@ -1,0 +1,1 @@
+("8.8" ta6nt ("4228c197630eecedd493c718ca83ba4b1bfc0dd7" "857e2d399568bdd4ffd2d97c625b1e030bc3b96f" . "f397b01f6251c175ea0f315b8fa3429d3cd36cdd") (collects #"rnrs" #"enums-6.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"mpair.rkt") (collects #"scheme" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("a5b06b47d4c8e8a25fff66b2c0a8e4dfa7b692ea" "c2d45233e6f7cfd92394aa3e35e6f42372d5116b" . "ab523717ba597cd04eb7b4111c8571468ed8deda") (collects #"lang" #"plt-pretty-big-text.rkt") (collects #"lang" #"private" #"imageeq.rkt") (collects #"mred" #"main.rkt") (collects #"mzscheme" #"main.rkt"))

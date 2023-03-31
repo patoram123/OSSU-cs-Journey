@@ -1,0 +1,1 @@
+("8.8" ta6nt ("1338dec54693c41b7ae681f6cf0bf6211361d74b" "e676897a6ba51766e70261222be27043878812b3" . "47acdb67939245449ca3f873846cf2d419c2ebaa") (collects #"ffi" #"cvector.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"ffi" #"winapi.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzscheme" #"lang" #"reader.rkt") (collects #"mzscheme" #"main.rkt"))

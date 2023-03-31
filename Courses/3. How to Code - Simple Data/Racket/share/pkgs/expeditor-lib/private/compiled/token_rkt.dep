@@ -1,0 +1,1 @@
+("8.8" ta6nt ("6c02d1a69def8de192b3214dc9b8ed4bf842f0f0" "d0486b6e17da098a69d229f34ef965a4f607e919" . "3613bc27e6ad0fd18e6e09a456b507822682cb46") (collects #"expeditor" #"private" #"param.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax-color" #"lexer-contract.rkt"))

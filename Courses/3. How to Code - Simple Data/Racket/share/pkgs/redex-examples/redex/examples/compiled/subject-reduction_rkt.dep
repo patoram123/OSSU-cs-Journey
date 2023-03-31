@@ -1,0 +1,1 @@
+("8.8" ta6nt ("dd8879d68608ffcb75ec8fc06e64726c4684a741" "7e5a241110e0188ea3a58521fb8c06e317c84429" . "4d5fcb86df4a43396f363b43985d210bcf12c404") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"redex" #"main.rkt") (indirect collects #"racket" #"match" #"gen-match.rkt") (indirect collects #"racket" #"match" #"parse.rkt"))

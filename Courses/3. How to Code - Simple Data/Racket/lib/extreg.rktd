@@ -1,0 +1,1 @@
+#hash(("DrRacket.exe" . (("Racket Document" "Racket.Document" ("rkt" "rktl" "rktd" "ss" "scm" "scrbl") #"../share/pkgs/drracket/drracket/doc.ico" "\"%1\""))) ("raco.exe" . (("Racket Package" "Racket Setup.Document" ("plt") #"../collects/raco/doc.ico" "setup -p \"%1\""))))

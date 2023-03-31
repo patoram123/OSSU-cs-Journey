@@ -1,0 +1,1 @@
+("8.8" ta6nt ("a81073e6536ebe55bd21b2e6f09851d60bd848f0" "09743555d51a7e76061a5bde1f625e921b4b8751" . "f85b5726e7898244bfd54649f4fa654af835f028") (collects #"drracket" #"private" #"compiled-dir.rkt") (collects #"drracket" #"private" #"key.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

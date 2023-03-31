@@ -1,0 +1,1 @@
+("8.8" ta6nt ("dfa746b8cfcce6bb9b33773bc2d36cf7b94d1c9c" "742dd4d6057f0b9fb1e1c81e193b56d7711b0b34" . "429ea01686c49ee81ab4fcc8a0a8ad40d8e8aa25") (collects #"frtime" #"animation" #"graphics-posn-less-unit.rkt") (collects #"frtime" #"animation" #"graphics-sig.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("3e18f16df8998c10e666cacc172a5c3fb2fba468" "19e9c9fe700cd968bd0cb0fb137d5748010400d5" . "69e5741dc33f22d6d2c25150b0c7ccc711f029a7") (collects #"htdp" #"error.rkt") (collects #"lang" #"prim.rkt") (collects #"mred" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzscheme" #"main.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("3c1b242d95116169909d0561146117aca27cb029" "10e2f0351e55917979834e03b30447852070cb8b" . "adb2e9a759486f7c27f36aaefbecff81508ac71c") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"syntax" #"struct.rkt") (collects #"syntax" #"stx.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("73e0b6c470ebbdc64aac3bd75b6d29ba57705d95" "42eb326bdf75fb49d4d59bed36670e4f5284af18" . "fb67af174dfe96e17929656797e55c5d7ac5f755") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"eopl" #"tests" #"chapter4" #"call-by-need" #"store.rkt"))

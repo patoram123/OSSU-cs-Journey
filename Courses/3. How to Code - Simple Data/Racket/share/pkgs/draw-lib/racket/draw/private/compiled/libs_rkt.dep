@@ -1,0 +1,1 @@
+("8.8" ta6nt ("8471fffa401746b6457dc6eb434cc49447eaa4fa" "7f15ea90352d47acc769b8a9b50a7c9a697224a0" . "1f761bc7e9665b3fac61a1882465ddc282cd6922") (collects #"ffi" #"unsafe.rkt") (collects #"ffi" #"winapi.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"runtime-path.rkt") (collects #"setup" #"cross-system.rkt"))

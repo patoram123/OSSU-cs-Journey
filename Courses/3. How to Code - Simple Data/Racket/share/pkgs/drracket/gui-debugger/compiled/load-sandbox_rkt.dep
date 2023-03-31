@@ -1,0 +1,1 @@
+("8.8" ta6nt ("50054042573cfe8449c7c0b647c5c77820c76acf" "1b6759559441bd102581bea9e4b0a66d40048142" . "df0bc6df386dfc5d546fa7547b2ea3d216103f65") (collects #"mred" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"mzscheme" #"lang" #"reader.rkt") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"private" #"namespace.rkt") (collects #"syntax" #"moddep.rkt"))

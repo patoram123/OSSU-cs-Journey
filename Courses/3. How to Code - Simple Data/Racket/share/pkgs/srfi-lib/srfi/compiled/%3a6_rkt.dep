@@ -1,0 +1,1 @@
+("8.8" ta6nt ("77c33393ed8d24ab506d50f3b3c8febcd8a307c5" "5998c4a5ae94d1355146dd26f5fa30ea6ee3b688" . "6d39f1c1d231e5728fa2bd86d0f4812fa11b6213") (collects #"r6rs" #"lang" #"reader.rkt") (collects #"r6rs" #"main.rkt") (collects #"r6rs" #"private" #"prelims.rkt") (collects #"rnrs" #"main.rkt") (collects #"scheme" #"base.rkt"))

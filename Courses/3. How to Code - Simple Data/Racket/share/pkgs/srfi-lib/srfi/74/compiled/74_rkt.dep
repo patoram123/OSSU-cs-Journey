@@ -1,0 +1,1 @@
+("8.8" ta6nt ("1774dfca52c5fefe51a0269a00dc0090685c5e56" "04f3810e7be43a30fd83e58a5874a6afab6b7e87" . "74d9d8d80632810f64aab3217a1b3e245f3c503b") (collects #"mzlib" #"include.rkt") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"26.rkt") (collects #"srfi" #"60.rkt") (collects #"srfi" #"66.rkt") (ext collects #"srfi" #"74" #"blob.scm"))

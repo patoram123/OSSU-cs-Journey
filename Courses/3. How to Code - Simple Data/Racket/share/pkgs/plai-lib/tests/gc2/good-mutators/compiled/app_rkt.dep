@@ -1,0 +1,1 @@
+("8.8" ta6nt ("f17da82af7110df5c7112107c8d1ab9672e374a2" "6bc3aad2c2d5fa85b676b5f6f8ee95439d08815a" . "ab3f1ea5baf1728c8169d9929bc0e858aa048daf") (collects #"plai" #"gc2" #"mutator" #"lang" #"reader.rkt") (collects #"plai" #"gc2" #"mutator.rkt") (collects #"plai" #"tests" #"gc2" #"good-collectors" #"good-collector.rkt") (collects #"scheme" #"runtime-config.rkt"))

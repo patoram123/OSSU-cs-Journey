@@ -1,0 +1,1 @@
+("8.8" ta6nt ("28e380918b9b95b7f89cc02fb8d1eea61154c3ad" "2e562a2b9fd47b4998084b087fb12e641f0c3ab2" . "c38d37b4621434a8f1332b0d9e0b95e74783bbfd") (collects #"mrlib" #"cache-image-snip.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"class.rkt") (collects #"scheme" #"runtime-config.rkt"))

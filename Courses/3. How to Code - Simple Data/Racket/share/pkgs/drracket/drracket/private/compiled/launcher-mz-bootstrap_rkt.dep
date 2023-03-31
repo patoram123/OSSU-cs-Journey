@@ -1,0 +1,1 @@
+("8.8" ta6nt ("bf8c9fbe36fd039e8bfb0777e37685bcd136025d" "0c45172bf2f57a847fbf1b36506d0e4041b5bf93" . "8d58552b4dd0ec9e38b5fa17c9c9db4a30d10bae") (collects #"drracket" #"private" #"launcher-bootstrap.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

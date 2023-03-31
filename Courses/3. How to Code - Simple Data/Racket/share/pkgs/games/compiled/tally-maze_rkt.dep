@@ -1,0 +1,1 @@
+("8.8" ta6nt ("f6da8157d959619904dac4dfbc15472eca56ca99" "35a9d73d4b675ef753eb56fab1ed453a564573cf" . "004fbee776f27f788c2a31b72f4dff8313456632") (collects #"games" #"tally-maze" #"game.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

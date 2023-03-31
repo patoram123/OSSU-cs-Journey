@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "8.8"))) (define collection (quote multi)) (define deps (quote ("base"))) (define pkg-desc "implementation (no documentation) part of \"distributed-places\"") (define pkg-authors (quote (tewk))) (define license (quote (Apache-2.0 OR MIT)))))

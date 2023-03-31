@@ -1,0 +1,1 @@
+("8.8" ta6nt ("ffb027f39c24ddedcf0367dc092dc8e05901a039" "98c1060b22ccb6f0ca61e1a9cc88261f71b1e5f0" . "8531f0e38c72f7412c59ee92c831fea2d0c13e76") (collects #"racket" #"base.rkt") (collects #"racket" #"promise.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"setup" #"cross-system.rkt") (collects #"setup" #"dirs.rkt"))

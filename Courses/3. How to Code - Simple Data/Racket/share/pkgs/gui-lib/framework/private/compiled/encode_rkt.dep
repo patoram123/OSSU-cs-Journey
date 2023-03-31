@@ -1,0 +1,1 @@
+("8.8" ta6nt ("7196c1a663b59e2b795135191cca948a94a211b4" "f9080b58bb40646ece234e5340d99bea421990e2" . "6f911a32ab2220696f8b84d26f1407fd462c4c7d") (collects #"file" #"gunzip.rkt") (collects #"file" #"gzip.rkt") (collects #"net" #"base64.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"cmdline.rkt") (collects #"racket" #"runtime-config.rkt"))

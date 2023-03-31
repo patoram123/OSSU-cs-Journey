@@ -1,0 +1,1 @@
+("8.8" ta6nt ("eb1e60ed8a5d432f0510e1deab76f43a3b55425c" "6bb4913c1f33b792a6c6fde3bd2c372ee9b73805" . "888532d30b3073139b04840440d09a0ccbddb3e9") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"id-table.rkt") (collects #"typed-racket" #"env" #"env-utils.rkt") (collects #"typed-racket" #"typecheck" #"renamer.rkt"))

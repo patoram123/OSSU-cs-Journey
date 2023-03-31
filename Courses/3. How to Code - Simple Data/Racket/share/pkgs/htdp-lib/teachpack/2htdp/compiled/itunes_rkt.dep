@@ -1,0 +1,1 @@
+("8.8" ta6nt ("16245d2757e77fdcac2139e7adebf480e2e94a07" "4523f772f0ace9b6bd3342c0f0dfcac86f7e8b98" . "6edd6859470877232db5c4cc8085f60d2392a004") (collects #"2htdp" #"itunes.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("56fdad79b5b0684df1cfbb96607c572be689b74b" "4909f9fa4fb9e29f12f30df1dfe7f8d76b409699" . "d841118a22d44f534242643c595aa12434a9b154") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racklog" #"main.rkt") (collects #"racklog" #"tests" #"puzzle.rkt") (collects #"tests" #"eli-tester.rkt"))

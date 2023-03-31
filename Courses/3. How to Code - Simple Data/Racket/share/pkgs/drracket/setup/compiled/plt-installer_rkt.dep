@@ -1,0 +1,1 @@
+("8.8" ta6nt ("bac74d5b8a753481f5b5cee11fc77a18aa42734b" "e0ada1c1469046f4dcdc7f3f3b91b18b73705737" . "766e4cbf07e51f35274247996d5aa75fdb448d3e") (collects #"mred" #"mred-sig.rkt") (collects #"mred" #"mred-unit.rkt") (collects #"mzlib" #"unit.rkt") (collects #"mzscheme" #"main.rkt") (collects #"setup" #"plt-installer-sig.rkt") (collects #"setup" #"plt-installer-unit.rkt"))

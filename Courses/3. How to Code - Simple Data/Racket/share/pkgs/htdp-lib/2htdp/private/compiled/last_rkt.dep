@@ -1,0 +1,1 @@
+("8.8" ta6nt ("ab08232c71c4fbf985479ccbca597f499a33095d" "720499ad12f80b21992a20a2f3817ae84c54c890" . "05d650231136392e4aa1c7936044d60e27bf7088") (collects #"2htdp" #"private" #"timer.rkt") (collects #"scheme" #"gui" #"lang" #"reader.rkt") (collects #"scheme" #"gui.rkt") (collects #"scheme" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("348b5251af752aff10506b58f7bb0628d0fa3f8d" "99db19927bc5de7ef4101526d81cc483510539ab" . "1e5c435f023b5bcdcddd115336e1db6062884ed5") (collects #"mrlib" #"aligned-pasteboard.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

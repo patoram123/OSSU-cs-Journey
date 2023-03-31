@@ -1,0 +1,1 @@
+("8.8" ta6nt ("6acdf651223624a786518b1209a08dff71746c54" "7b83a9b6d2e82ba5961422d24d0e47de0fdce960" . "490587a4cd6d40feb1bbfc8894c2386dffc8eb7d") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzscheme" #"main.rkt") (collects #"slideshow" #"slideshow.rkt"))

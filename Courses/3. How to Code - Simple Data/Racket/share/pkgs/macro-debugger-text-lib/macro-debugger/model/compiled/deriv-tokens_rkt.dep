@@ -1,0 +1,1 @@
+("8.8" ta6nt ("ba7ec5c1b5d92d09d270c96cf125bb2f7b4fb0fc" "d175a57b29df591cdcd7b7e2887dc56778ddc618" . "8b8b80aed8b657aab753e13ed6a8cf18615a7143") (collects #"macro-debugger" #"model" #"deriv.rkt") (collects #"macro-debugger" #"model" #"parser-util.rkt") (collects #"parser-tools" #"lex.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

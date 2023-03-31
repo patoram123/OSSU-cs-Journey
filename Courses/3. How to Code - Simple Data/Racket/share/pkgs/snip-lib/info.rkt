@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "8.8"))) (define collection (quote multi)) (define deps (quote ("base" ("draw-lib" #:version "1.17")))) (define pkg-desc "implementation (no documentation) part of \"snip\"") (define pkg-authors (quote (mflatt))) (define version "1.4") (define license (quote (Apache-2.0 OR MIT)))))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("a95257abbd25c9d5b8ed37caf8f67d095c2d95ff" "d3e4b664506b4c50e1eca351d7992a5cafd4f30e" . "200e7ba1904b578309bc679076555e97fb8f0cdf") (collects #"images" #"compile-time.rkt") (collects #"images" #"icons" #"control.rkt") (collects #"images" #"icons" #"style.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

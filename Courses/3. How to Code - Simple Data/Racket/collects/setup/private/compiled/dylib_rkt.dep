@@ -1,0 +1,1 @@
+("8.8" ta6nt ("a655d326f32b187bc53d4d88692755e121314ecf" "e4a32f0a9250dbdf891e2102491fdc95112628fe" . "beed3e358e490bd86c62e943f0213239c044b7d9") (collects #"compiler" #"private" #"mach-o.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"setup" #"dirs.rkt"))

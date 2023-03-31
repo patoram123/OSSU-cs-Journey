@@ -1,0 +1,1 @@
+("8.8" ta6nt ("ade87c3f5b33e31dd403834c68e9504eae9bd8df" "8234878ee90cfba6fb3c7e12bf06bf6b99366813" . "7fd36311ffd93be5b133023d7bcc8b1b2733422a") (collects #"deinprogramm" #"DMdA" #"private" #"DMdA-reader.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

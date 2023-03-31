@@ -1,0 +1,1 @@
+("8.8" ta6nt ("2ad88f94ca10de23145d8b83091ec414566fcfd9" "302d80cd2b96612f174d4e527f6c8ad578810d3d" . "ef74339fe99b06a4ba6393f59315c4f5bcde2a51") (collects #"racket" #"base.rkt") (collects #"racket" #"private" #"vector-wraps.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unsafe" #"ops.rkt"))

@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "8.8"))) (define collection (quote multi)) (define version "1.3") (define deps (quote (("base" #:version "7.9.0.16") "net-lib"))) (define pkg-authors (quote (ryanc))) (define license (quote (Apache-2.0 OR MIT)))))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("d9f09fbfb1c39268646a92885f0555a227f7bb75" "bb7c84c0188d91321c8192160588e783b7857c29" . "8163cfaed06909e8046c5c17e94a8772e1065a6e") (collects #"racket" #"udp.rkt") (collects #"scheme" #"private" #"provider" #"lang" #"reader.rkt") (collects #"scheme" #"private" #"provider" #"lang.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("ba6267c8005505ec68e7744f80a5307abca3b057" "8e69a3d792b355caca35e5bb590af160b6e69972" . "c3e8ef7a1c54eae90616a7286a0f1754b04d243d") (collects #"mred" #"private" #"wx" #"cocoa" #"pool.rkt") (collects #"mred" #"private" #"wx" #"cocoa" #"queue.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

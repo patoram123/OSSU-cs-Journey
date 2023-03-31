@@ -1,0 +1,1 @@
+("8.8" ta6nt ("abaf007da9d26a6920a00ed0d756bd3512fa436f" "2e590b0e564a1b77e6c466db01d87607ec40ec58" . "d3c6a14a25627e902ae32bbfcb331ecbd7e4b57c") (collects #"mysterx" #"mysterx.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("4732c53413a2dc6dbfe7c3172eee06d365679208" "19d253ef1ec6ea2d6788660ca8f2c72b11083371" . "03283a005dd15bb4d1540f61689c7f32b3f62bc1") (collects #"r6rs" #"private" #"encode-name.rkt") (collects #"r6rs" #"private" #"find-version.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

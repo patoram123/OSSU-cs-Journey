@@ -1,0 +1,1 @@
+("8.8" ta6nt ("00ddff98f28b3b0f1219e9560e4602b032e597f6" "cc11403bf2d4fb41b3b2612b7ec2cd83432e98ce" . "7bcc90fc46bffcb7dd1ed546d62ea61e7a7407ab") (collects #"embedded-gui" #"private" #"interface.rkt") (collects #"framework" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzscheme" #"main.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("6c50f46beae43bacd73b307a9d470aab27995077" "5326ba692d3d629b4ce61a428735bb9eaea0eb51" . "f970071b4d5ac388516438f1ba1e7979317ebca0") (collects #"graphics" #"private" #"value-turtles-reader.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"wxme" #"main.rkt"))

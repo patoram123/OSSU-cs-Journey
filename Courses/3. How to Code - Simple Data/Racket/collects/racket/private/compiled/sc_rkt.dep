@@ -1,0 +1,1 @@
+("8.8" ta6nt ("5d917b7590e59a9e16bcd28b5b8fa32d5f3e8327" "fc3ff03974552e669532e7992e14fbedaff9b72a" . "92fc000977febf9260a8c3bb4fec2c9b0041b087") (collects #"racket" #"private" #"cond.rkt") (collects #"racket" #"private" #"define-et-al.rkt") (collects #"racket" #"private" #"ellipses.rkt") (collects #"racket" #"private" #"qq-and-or.rkt") (collects #"racket" #"private" #"stx.rkt"))

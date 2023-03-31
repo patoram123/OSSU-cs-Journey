@@ -1,0 +1,1 @@
+("8.8" ta6nt ("1f2fe773c9e91e76550a8087142ca0199bebf7f8" "7bd9f5f1e0f9e1135e4752c961f6358aac30a770" . "a226c2bcf257f2b298f83d9e1a325356a6237337") (collects #"math" #"private" #"parameters.rkt") (collects #"math" #"private" #"utils" #"flonum-tests.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

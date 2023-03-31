@@ -1,0 +1,1 @@
+("8.8" ta6nt ("b7b7a6bfe32d96f225ee949fa2958fcb92a4dff8" "39d4e6b4c7e99abd1af33875f0a453dd7a6a162f" . "13147d8e32146af949ec5ebba5b0e2896de86203") (collects #"ffi" #"unsafe" #"com.rkt") (collects #"mysterx" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"system.rkt") (collects #"setup" #"dirs.rkt"))

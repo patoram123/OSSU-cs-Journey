@@ -1,0 +1,1 @@
+("8.8" ta6nt ("0046ec69e737cf9673e9013f45cfffb12deabc10" "03f0da3e510a32b4a43c7b82ab3090e9fbaadea9" . "230f4f13f0bb59474047e8f9154418112afdc3ff") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"cmdline.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"slatex" #"slatex-wrapper.rkt"))

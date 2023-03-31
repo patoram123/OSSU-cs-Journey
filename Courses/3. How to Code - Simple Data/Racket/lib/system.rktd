@@ -1,0 +1,1 @@
+#hash((arch . x86_64) (fs-change . #(supported scalable low-latency #f)) (gc . cs) (library-subpath . #"win32\\x86_64") (library-subpath-convention . windows) (link . dll) (machine . "win32\\x86_64") (os . windows) (os* . windows) (so-mode . local) (so-suffix . #".dll") (target-machine . ta6nt) (vm . chez-scheme) (word . 64))

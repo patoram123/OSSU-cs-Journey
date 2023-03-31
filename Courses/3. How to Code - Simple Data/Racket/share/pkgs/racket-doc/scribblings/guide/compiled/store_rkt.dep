@@ -1,0 +1,1 @@
+("8.8" ta6nt ("d8ad13e6768fe814d1690fe71ccfb7a457b3fb86" "346ad7005d9722b5b209dab0a4f15d32f2412322" . "c35caedf21461654bdbbf440bbe217db34fdf2a5") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"reader" #"lang" #"reader.rkt") (collects #"scribblings" #"guide" #"dollar-racket.rkt"))

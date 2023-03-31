@@ -1,0 +1,1 @@
+("8.8" ta6nt ("1aba0f6ca3586308d1adb44b790ca7acb30679ea" "9253efdd2a3f96c3a27c2c079756be5c8f2d3e89" . "2f8c7ba08c4f9329b4e1ed87eff27f138f46fc66") (collects #"planet" #"private" #"resolver.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("156d4bf3ad15c4c84bcd0de8257958df61e2a25f" "7d81cafdd33bdbd94a8536eb2d1514f01855fd84" . "d79d71c529fb0f0157d82e1bc5589fa0cd7d9ada") (collects #"mzlib" #"list.rkt") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"undefined.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

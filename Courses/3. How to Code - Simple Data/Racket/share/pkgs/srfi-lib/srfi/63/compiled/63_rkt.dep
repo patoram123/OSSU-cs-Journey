@@ -1,0 +1,1 @@
+("8.8" ta6nt ("720ebd4db480d58e639b667699044e72cf74f347" "2c08e11888002d327f8051884d4fa1dd0f59e562" . "3c6c215378c95652d60ecf946cd97f1512bf8827") (collects #"mzlib" #"contract.rkt") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"4.rkt"))

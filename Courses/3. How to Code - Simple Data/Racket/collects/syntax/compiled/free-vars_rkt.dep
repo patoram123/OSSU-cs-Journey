@@ -1,0 +1,1 @@
+("8.8" ta6nt ("16ed4cb2d69f9fd8e5928e6c12951eef33523014" "71f226d0a1a553f313d955b292cbac433a28f927" . "cf76e4405fe2633dd75a1e04f358908fcd8b600b") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"syntax" #"kerncase.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("be96d4d1bece44875fde952d51af5f9ef1c746e8" "5229c521934e9af2d7a57d8d3b49269542e1435f" . "7b80cfc433ab884e1faa1a7150986045b3bd8078") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"42" #"mzscheme2.rkt") (collects #"srfi" #"42" #"simplifier.scm"))

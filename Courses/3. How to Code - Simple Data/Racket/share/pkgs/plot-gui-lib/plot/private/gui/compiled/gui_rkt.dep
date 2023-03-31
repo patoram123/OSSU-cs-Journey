@@ -1,0 +1,1 @@
+("8.8" ta6nt ("2fade2e9ed40db764c66bbddf65f2024475f6d8e" "3addf10c7338d8efbf65d0ca1ca8821db9842e65" . "e313c49199d6ea3dc53d3740889a89ffa8f4e7c6") (collects #"mrlib" #"snip-canvas.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

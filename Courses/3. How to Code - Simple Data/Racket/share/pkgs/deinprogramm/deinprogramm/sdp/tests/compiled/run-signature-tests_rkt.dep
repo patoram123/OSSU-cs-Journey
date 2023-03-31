@@ -1,0 +1,1 @@
+("8.8" ta6nt ("330d877d2d3e6d1228830addf5e2fb204b30b85a" "184f60c824f4142f1c13698b20d8f190d8f8c29f" . "4f9be2d512c4df2529914704840b177663ceee6b") (collects #"deinprogramm" #"sdp" #"tests" #"signature.rkt") (collects #"rackunit" #"text-ui.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

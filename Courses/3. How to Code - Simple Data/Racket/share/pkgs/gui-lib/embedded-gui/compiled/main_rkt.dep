@@ -1,0 +1,1 @@
+("8.8" ta6nt ("ecd9742ae481ab1ac6879bea71c944d5837bede8" "fa9b1cd9c7d2128645211a7426c28d1f6fe76960" . "096dbf276f504480a15760092c86362cf8673f8a") (collects #"embedded-gui" #"embedded-gui.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

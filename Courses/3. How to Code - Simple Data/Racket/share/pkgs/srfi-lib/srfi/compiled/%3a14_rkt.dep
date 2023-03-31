@@ -1,0 +1,1 @@
+("8.8" ta6nt ("eaa95a5efbce767bcd542a3c24d715ebff55d38b" "662ecfa6de60a02db0dcd401faac17668e58d12f" . "0289d821e24923db5c100ed8ac7b12397e220b3b") (collects #"scheme" #"main.rkt") (collects #"scheme" #"mpair.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"srfi" #"14.rkt"))

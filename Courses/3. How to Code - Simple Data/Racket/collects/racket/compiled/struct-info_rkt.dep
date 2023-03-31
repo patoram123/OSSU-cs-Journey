@@ -1,0 +1,1 @@
+("8.8" ta6nt ("de58c65c431a5b5d935b7cf96d4128dd16b66638" "f68a1deaf7dd69015c2645da55c5caea52f885f6" . "863cc11ab0c4118fb81ae37ac019d08ef40677d2") (collects #"racket" #"private" #"define-struct.rkt") (collects #"racket" #"private" #"struct-info.rkt"))

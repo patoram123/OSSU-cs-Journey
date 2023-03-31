@@ -1,0 +1,1 @@
+("8.8" ta6nt ("1a4557eed4de971fd8d8a6dfd6395bcbc780079b" "b47bf555129d5adadc7e7283778a7dc52af0578f" . "bb8b8315c0d1be4c581928ebcfd772c3f6af6c7b") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

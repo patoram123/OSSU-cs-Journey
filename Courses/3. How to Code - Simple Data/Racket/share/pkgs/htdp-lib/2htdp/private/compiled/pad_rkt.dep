@@ -1,0 +1,1 @@
+("8.8" ta6nt ("4b4a3f94236536a2345942fb0f34500095655fb5" "7539229ec05a1009ed1d0fbf12d69953eed08803" . "3c1e1dccdbd6034482ed4ec794268bb078089245") (collects #"mrlib" #"include-bitmap.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"runtime-config.rkt") (ext collects #"2htdp" #"private" #"gamepad.png"))

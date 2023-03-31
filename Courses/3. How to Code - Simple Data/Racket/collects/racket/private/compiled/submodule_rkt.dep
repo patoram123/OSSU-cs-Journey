@@ -1,0 +1,1 @@
+("8.8" ta6nt ("7acd25741f149e546f35ba56dea54de2f99044de" "9940c8a9839a4263c7d44fe7b0179a4b554d9899" . "e356337216c542292f3d9f6b09b1618bd4afa094") (collects #"racket" #"private" #"letstx-scheme.rkt") (collects #"racket" #"private" #"more-scheme.rkt") (collects #"racket" #"private" #"qqstx.rkt") (collects #"racket" #"private" #"stxcase-scheme.rkt"))

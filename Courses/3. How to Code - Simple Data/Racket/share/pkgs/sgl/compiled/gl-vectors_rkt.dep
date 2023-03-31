@@ -1,0 +1,1 @@
+("8.8" ta6nt ("4226b6432688fbd61a3359a81acd3e14abfd1ec2" "6c187e50e159447a13432e12897e583fb2383bc5" . "1100346a832f2c4d347c24d6d78aa0e8cca5043e") (collects #"mzlib" #"foreign.rkt") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"sgl" #"gl-types.rkt"))

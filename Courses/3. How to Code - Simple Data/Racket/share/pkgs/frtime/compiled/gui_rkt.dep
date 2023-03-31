@@ -1,0 +1,1 @@
+("8.8" ta6nt ("e574c63e9605a21560262ad89fbd26a2b6e77a0c" "79edc3104e3a526d473e2cb4bb5c9c0425a81bc9" . "ec34450b365dec3455245d9c86611b5d23d00086") (collects #"frtime" #"frtime-big.rkt") (collects #"frtime" #"gui" #"fred.rkt") (collects #"frtime" #"lang" #"reader.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

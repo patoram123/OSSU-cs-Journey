@@ -1,0 +1,1 @@
+("8.8" ta6nt ("49474e154b4f156d9fa9ea02f4531d40cd01a8c6" "7084b1d9275f2094c1eca429bc876785a3d1d28f" . "0f8001be4cdda738a3b9ac10203db0a58ad3005d") (collects #"algol60" #"prims.rkt") (collects #"algol60" #"runtime.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

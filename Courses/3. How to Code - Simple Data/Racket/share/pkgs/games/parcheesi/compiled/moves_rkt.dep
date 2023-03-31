@@ -1,0 +1,1 @@
+("8.8" ta6nt ("537f6b4f5031220c6326457e467b6cc38587f299" "4d3b3dc49553feb14e0cdfcece23290a7cd17ee5" . "189a8a3c43d8c099f93d53465be692d99ade26e2") (collects #"games" #"parcheesi" #"board.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

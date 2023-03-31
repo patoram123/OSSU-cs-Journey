@@ -1,0 +1,1 @@
+("8.8" ta6nt ("231a80621c97f89a4612dfc0fe7a6ab87a474b5f" "b57c43a26843bca4ba10a2ddee09b4e8fc7ff994" . "fb71aa1054416183734beae9d99b5440ec9e5806") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"latex-render.rkt") (collects #"scribble" #"private" #"indirect-renderer.rkt") (collects #"scribble" #"private" #"run-pdflatex.rkt"))

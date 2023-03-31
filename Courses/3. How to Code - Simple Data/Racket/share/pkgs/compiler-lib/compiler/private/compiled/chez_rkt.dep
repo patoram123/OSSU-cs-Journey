@@ -1,0 +1,1 @@
+("8.8" ta6nt ("e9604f869ad0c629bc7f8a06c0f338118c375674" "636836f7f341823a81bd4bcda634a42fa1fad834" . "59ffbe4b92bff23f67b6a5764af2dc2cd731ac22") (collects #"ffi" #"unsafe" #"vm.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"promise.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("8d8acb5569abda98277459d6594dea71c7ae36c7" "eb3c27a3555e49902c31a66d1ab193bb1bc30ba3" . "b18db26d0fbc87ebcc202da752ab4b6401aa2914") (collects #"frtime" #"core" #"frp.rkt") (collects #"frtime" #"lang-ext.rkt") (collects #"frtime" #"lang-utils.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

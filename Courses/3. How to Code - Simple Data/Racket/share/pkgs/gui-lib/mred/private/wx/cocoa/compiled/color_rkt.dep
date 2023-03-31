@@ -1,0 +1,1 @@
+("8.8" ta6nt ("b0323ccefd7d0105d98604ec5326b4d9a881ea87" "e2bf1f567415eb3b1b456fd4f0fb77a3413fec15" . "2e4379b33cce616417c3d74e2baa8ae066e4ede1") (collects #"ffi" #"unsafe" #"objc.rkt") (collects #"mred" #"private" #"wx" #"cocoa" #"types.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"draw" #"private" #"color.rkt") (collects #"racket" #"runtime-config.rkt"))

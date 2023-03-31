@@ -1,0 +1,1 @@
+("8.8" ta6nt ("27d50356523afec48b1889bf4bcb7f966e3637fc" "45620e25a776183d24fbf1e3e5c78f12a8b1ddd2" . "7b2386b0c4d3eb1fb49cd6e2286b6e16b4ba3c76") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax-color" #"racket-lexer.rkt"))

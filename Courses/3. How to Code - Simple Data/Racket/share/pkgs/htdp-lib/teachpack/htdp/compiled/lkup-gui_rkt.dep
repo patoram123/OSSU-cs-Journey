@@ -1,0 +1,1 @@
+("8.8" ta6nt ("443ac51b77077b22078c24cee5a2aff072225cb0" "d4c43431500ee5a5a1ff98cad07affc9981b518c" . "66feca55c6569bd24e24757423c30dafb19e909e") (collects #"htdp" #"lkup-gui.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

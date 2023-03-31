@@ -1,0 +1,1 @@
+("8.8" ta6nt ("0de60cd3bd7d0b5f170952d69d802c6782f76f05" "0fad5723c5592268d7816d29f92417511894cf77" . "e7b160ae16b5070ff176427afca978f7cd9b9c99") (collects #"ffi" #"examples" #"xmmsctrl.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

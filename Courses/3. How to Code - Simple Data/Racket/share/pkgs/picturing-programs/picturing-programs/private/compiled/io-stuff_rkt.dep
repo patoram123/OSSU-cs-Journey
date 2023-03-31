@@ -1,0 +1,1 @@
+("8.8" ta6nt ("38c63c8a800ba8a8aeea899015388d1fd7b276df" "a9494a97993ed8d58181b98c08b68c972db23c22" . "9b773c1b5b9273edbdae08a07d3d05e15e67e119") (collects #"lang" #"error.rkt") (collects #"net" #"url.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"port.rkt") (collects #"racket" #"runtime-config.rkt"))

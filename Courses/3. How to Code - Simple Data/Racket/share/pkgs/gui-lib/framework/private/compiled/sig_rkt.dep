@@ -1,0 +1,1 @@
+("8.8" ta6nt ("7f0a7bac1fed50f28fe4466bd21a416d080dce5c" "0f26e90b3b8f21e70bbbbdee8c39502178844b35" . "38b436ebe5c6e2494c4048d85e15470f123957ab") (collects #"framework" #"private" #"editor-sig.rkt") (collects #"framework" #"private" #"text-sig.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

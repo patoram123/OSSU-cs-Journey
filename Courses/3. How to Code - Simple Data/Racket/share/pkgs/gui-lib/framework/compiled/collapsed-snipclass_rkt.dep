@@ -1,0 +1,1 @@
+("8.8" ta6nt ("a7ce4f0cc081affcfa6609b56bebe3f8a4ae9bfe" "cd1f29def20310f9260a9d606424075e38e98cb8" . "f11034fd1fa0ceafad7379364db218e2a6477743") (collects #"framework" #"private" #"collapsed-snipclass-helpers.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

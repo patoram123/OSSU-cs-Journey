@@ -1,0 +1,1 @@
+("8.8" ta6nt ("de5e7e79dd071c015c65e28eace687e68895cc50" "8fa0b71b32da62ea6dbb490d016cafa2033f5699" . "45729c8e235b1aea68fe0d290db8642f9fa2dedf") (collects #"s-exp" #"lang" #"reader.rkt") (collects #"swindle" #"base.rkt") (collects #"swindle" #"misc.rkt") (collects #"swindle" #"setf.rkt"))

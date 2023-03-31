@@ -1,0 +1,1 @@
+("8.8" ta6nt ("704b4f2a1140855abcac7205f3f7d14f20e904b8" "068a8378d05f41f2b50f90b6b37dc96ffe58c09a" . "e28929f8f4f6111d511e144adda0a4fe1d6ad5a2") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"tests" #"macro-debugger" #"gentest-framework.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("a4955946b394a9cf1e0210f2a4cc64030291d0d6" "35737898afcdc7e75fe93225d4c1a9b0f49388d9" . "5efc6abe4067f3d3163a890e123dd1ca2f08432e") (collects #"2htdp" #"image.rkt") (collects #"2htdp" #"universe.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt") (collects #"rackunit" #"text-ui.rkt"))

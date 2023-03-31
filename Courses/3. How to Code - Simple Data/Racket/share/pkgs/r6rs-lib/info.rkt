@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "8.8"))) (define collection (quote multi)) (define deps (quote ("scheme-lib" "base" "r5rs-lib" "compatibility-lib"))) (define pkg-desc "implementation (no documentation) part of \"r6rs\"") (define pkg-authors (quote (mflatt))) (define license (quote (Apache-2.0 OR MIT)))))

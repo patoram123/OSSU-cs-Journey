@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define assume-virtual-sources #t) (define package-content-state (quote (binary "8.8"))) (define collection (quote multi)) (define deps (quote ("base"))) (define pkg-desc "native libraries for \"base\" package") (define pkg-authors (quote (mflatt))) (define license (quote (Apache-2.0 OR MIT)))))

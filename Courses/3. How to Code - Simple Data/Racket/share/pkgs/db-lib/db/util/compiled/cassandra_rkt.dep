@@ -1,0 +1,1 @@
+("8.8" ta6nt ("17204c0a03da16ab20c2c2b1ff0273c0e8caeaac" "c7d4e0cdc977596962f06c26f0af0d650af9a01b" . "0c2ec617f70763e086041c9d86f149c06b5db0c2") (collects #"db" #"private" #"cassandra" #"connection.rkt") (collects #"db" #"private" #"cassandra" #"message.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

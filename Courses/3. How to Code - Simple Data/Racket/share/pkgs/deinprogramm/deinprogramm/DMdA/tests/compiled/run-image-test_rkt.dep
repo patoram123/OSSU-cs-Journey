@@ -1,0 +1,1 @@
+("8.8" ta6nt ("1c38648b8a09186364c57a15b71e204459eef61a" "2194fc5b9a717d22a60bb03ddf7b21598c271cd9" . "81e2f9e4f8d7ab79f3973fafb776caa5bc6340a2") (collects #"deinprogramm" #"DMdA" #"tests" #"image.rkt") (collects #"rackunit" #"text-ui.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

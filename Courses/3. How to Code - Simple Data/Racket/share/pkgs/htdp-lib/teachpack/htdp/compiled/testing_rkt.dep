@@ -1,0 +1,1 @@
+("8.8" ta6nt ("21a85df0b2b2e686b8333add66d9f26c6a11ba71" "a8a730684f2a288d774a5afaa6f6bdf2ef05d2a0" . "c494e22da83a4b88c7aedea56f6ccc7d76dbca74") (collects #"htdp" #"testing.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

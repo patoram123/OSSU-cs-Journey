@@ -1,0 +1,1 @@
+("8.8" ta6nt ("11c3a740b78d154f2d94c5c8a8eee324510f4159" "26477e1529f788b557679c5db36739a6018f3151" . "94e3b6216e98e1d82e9bf47e0af9053baf599a6c") (collects #"graphics" #"turtles.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

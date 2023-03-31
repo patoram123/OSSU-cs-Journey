@@ -1,0 +1,1 @@
+("8.8" ta6nt ("77a6c0afbaebf56e710896fadbec8ba3c225fc96" "79f411c956f7aaa8dc52d19e1e1f8244a2832292" . "da5720589e6125ece8eac3f45b184c4451c07e11") (collects #"racket" #"runtime-config.rkt") (collects #"s-exp" #"lang" #"reader.rkt") (collects #"srfi" #"69" #"hash.rkt") (collects #"srfi" #"provider.rkt"))

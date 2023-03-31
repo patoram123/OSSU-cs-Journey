@@ -1,0 +1,1 @@
+("8.8" ta6nt ("1fe4cfd1f753464679101375b15507753766cb5c" "820ac22f826f5533292d7ec29affeaeec7dc568d" . "9fa2d97e58f94650a8d45abbbd09b2818a2ce719") (collects #"optimization-coach" #"structs.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"runtime-config.rkt"))

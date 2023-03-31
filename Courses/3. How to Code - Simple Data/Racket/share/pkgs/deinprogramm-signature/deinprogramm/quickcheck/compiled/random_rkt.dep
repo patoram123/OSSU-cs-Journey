@@ -1,0 +1,1 @@
+("8.8" ta6nt ("f41adabbed733ae41b3c3de72a80abc20064514a" "9769ea7b74891bb80fc7762846153cab8f0aef8f" . "41b092b30a3c3a04bad91120665563c277039183") (collects #"scheme" #"base.rkt") (collects #"scheme" #"include.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"srfi" #"9.rkt") (ext collects #"deinprogramm" #"quickcheck" #"random.scm"))

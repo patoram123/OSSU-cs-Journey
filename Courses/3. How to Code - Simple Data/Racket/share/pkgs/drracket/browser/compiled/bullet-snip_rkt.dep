@@ -1,0 +1,1 @@
+("8.8" ta6nt ("2fa7cfda22f8089cfc59f76c6eb38d788a8f81ef" "51f6a00d83869255cbd34c2f9655e3cda6e65e0a" . "9f22a266c274cfcf795a6ea7b33fa10422c43d3d") (collects #"browser" #"private" #"bullet.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

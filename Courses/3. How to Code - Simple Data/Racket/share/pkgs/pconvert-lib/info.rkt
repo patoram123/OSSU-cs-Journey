@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "8.8"))) (define deps (quote ("base" "compatibility-lib"))) (define collection (quote multi)) (define pkg-desc "Legacy library for printing Racket values") (define version "1.1") (define pkg-authors (quote (robby))) (define license (quote (Apache-2.0 OR MIT)))))

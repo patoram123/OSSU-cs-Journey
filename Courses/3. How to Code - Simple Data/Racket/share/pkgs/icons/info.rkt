@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "8.8"))) (define collection "icons") (define deps (quote ("base"))) (define pkg-desc "An assortment of images") (define pkg-authors (quote (ntoronto robby))) (define version "1.3") (define license (quote (Apache-2.0 OR MIT)))))

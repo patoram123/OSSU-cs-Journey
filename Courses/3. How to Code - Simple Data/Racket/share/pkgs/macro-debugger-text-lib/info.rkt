@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "8.8"))) (define collection (quote multi)) (define deps (quote ("base" "db-lib" "class-iop-lib" "parser-tools-lib"))) (define pkg-desc "The macro debugger tool with a console interface") (define pkg-authors (quote (ryanc))) (define license (quote (Apache-2.0 OR MIT)))))

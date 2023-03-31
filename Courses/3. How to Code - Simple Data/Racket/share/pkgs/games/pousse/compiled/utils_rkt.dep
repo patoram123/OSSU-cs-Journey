@@ -1,0 +1,1 @@
+("8.8" ta6nt ("ef4fc190ba8a34a248f1abf177d0dacf3a4be334" "4abf94cbd0b04c97701cee4e1baf3e7db77ae6be" . "c060aa006271fe31b575b950c448eb72a66cae8b") (collects #"games" #"pousse" #"board-size.rkt") (collects #"games" #"pousse" #"board.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

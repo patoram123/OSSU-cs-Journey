@@ -1,0 +1,1 @@
+("8.8" ta6nt ("7a189f27aadfe40ba7100b31d1a5d41771209d75" "6955009eecb12652e6d9fa1f04ad609924b4c43e" . "97f0fe620f9b9dea689623caae131a5c33cb9bbd") (collects #"mrlib" #"private" #"image-core-bitmap.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"runtime-config.rkt"))

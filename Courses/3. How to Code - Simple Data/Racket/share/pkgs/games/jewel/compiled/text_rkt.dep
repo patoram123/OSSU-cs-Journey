@@ -1,0 +1,1 @@
+("8.8" ta6nt ("38bc8677bca1d1e476279b6ab6e1800c558590b4" "3dd775860636542493c55cd921493e4f8c43156c" . "0c49b5b885e0274ed0528071d0273b0ca6063f2c") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"sgl" #"gl-vectors.rkt") (collects #"sgl" #"gl.rkt"))

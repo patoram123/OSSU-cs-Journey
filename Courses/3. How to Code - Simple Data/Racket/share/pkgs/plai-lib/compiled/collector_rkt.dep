@@ -1,0 +1,1 @@
+("8.8" ta6nt ("62e0049b5ae380f092f3d34dcc6cdfef13abb925" "c90fa051c135242ac793ffdd34aba92b8a2bdc72" . "fc0aeeb6409706eee0bbdd9d0136a8160d933547") (collects #"plai" #"datatype.rkt") (collects #"plai" #"private" #"gc-core.rkt") (collects #"plai" #"test-harness.rkt") (collects #"scheme" #"main.rkt") (collects #"scheme" #"runtime-config.rkt"))

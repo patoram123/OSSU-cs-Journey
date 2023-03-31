@@ -1,0 +1,1 @@
+("8.8" ta6nt ("3129c08411e72a74bad9badd7f6852ab120a3f9d" "548b373ec58dff930c7f355e6628bcd245d6bf1b" . "52bff97a335710f9a15778ee7aa1678318f60e13") (collects #"deinprogramm" #"sdp" #"private" #"sdp-reader.rkt") (collects #"mzscheme" #"main.rkt"))

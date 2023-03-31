@@ -1,0 +1,1 @@
+("8.8" ta6nt ("0c88fac3fe94ea5b12c58483ccf7b7a20ed9a4ca" "97318e0c81fd9bd8287b8a391769307ff93a1f3d" . "6670155673f3e7a2ddeada9a53c96968f3750418") (collects #"net" #"osx-ssl.rkt") (collects #"net" #"win32-ssl.rkt") (collects #"openssl" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"tcp.rkt"))

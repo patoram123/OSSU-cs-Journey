@@ -1,0 +1,1 @@
+("8.8" ta6nt ("8b17dde56560d98670e34cf6d1732cceddbc8336" "4fbade4e74cef660e5f4055eed3b303246e25c54" . "043df93f50da5450ca5aa64f87eaa2b4425ee97e") (collects #"pkg" #"private" #"print.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"format.rkt") (collects #"racket" #"promise.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"system.rkt"))

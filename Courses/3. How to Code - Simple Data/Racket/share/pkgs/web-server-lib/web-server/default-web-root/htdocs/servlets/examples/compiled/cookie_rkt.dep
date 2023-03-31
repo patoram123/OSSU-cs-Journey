@@ -1,0 +1,1 @@
+("8.8" ta6nt ("41512d89c95d3266b33603628420169d740a4a24" "afd9781e4603c287232127d1ae8bd9961775dfb7" . "ebf183d06d32128eca00b320bbb8523ff284f6e3") (collects #"net" #"url.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"web-server" #"insta" #"insta.rkt") (collects #"web-server" #"insta" #"lang" #"reader.rkt"))

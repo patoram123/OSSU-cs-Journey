@@ -1,0 +1,1 @@
+("8.8" ta6nt ("2ec59c4e7b563c10f2664986964b861cee9a96b5" "a20445f012b9b9e4a33a14d6b32a7700be1d55ca" . "3dde447b379b0593bba4cc8f9fd277422e3b6fde") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"setup" #"dirs.rkt") (collects #"setup" #"path-relativize.rkt"))

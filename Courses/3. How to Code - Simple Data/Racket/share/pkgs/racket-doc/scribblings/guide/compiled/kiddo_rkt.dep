@@ -1,0 +1,1 @@
+("8.8" ta6nt ("914f467aea8b66e7a615fc1af0596cfae85f0f7a" "cba596d54352853e1a61c0319a622288e8de7265" . "55477d48ed7aa9cdcbc148f6f9fedd04273ae231") (collects #"scheme" #"main.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"scribblings" #"guide" #"death-list-5.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("cc50c4ffbe31fdad95a896cfac119d427933b603" "1c793c968a6529147e1396536267db15c1f40d6b" . "73fa31b7afb31e6439379851febf876fe44386f4") (collects #"ffi" #"examples" #"xosd.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

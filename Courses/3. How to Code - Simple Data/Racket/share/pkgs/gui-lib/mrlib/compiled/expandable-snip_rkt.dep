@@ -1,0 +1,1 @@
+("8.8" ta6nt ("a3e9deb6f007e01b4b74f571e514be6bf5bf1569" "93a7bc40b2682e514211f8cfb2cc5eb76d36c24d" . "f5745640da5cedcfb36b2d76c7712a1356c24c93") (collects #"mrlib" #"arrow-toggle-snip.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

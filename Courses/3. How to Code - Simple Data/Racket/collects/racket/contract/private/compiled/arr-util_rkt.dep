@@ -1,0 +1,1 @@
+("8.8" ta6nt ("c41b8eb2877fac1b08e78f9761ef59d96973c8a5" "e4f3123870ae5e4aeee819af6260bc09af95b951" . "583c497d72188a6ae5db45466ac8987fa107f144") (collects #"racket" #"base.rkt") (collects #"racket" #"contract" #"private" #"application-arity-checking.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("f990089bdf16a07a0beabd4fd571e633f3f2dd48" "1ca9658d057464e90ef989857fb6e6b21354a0b4" . "af88f6460dbd778fe4e333c2f78aa69b71d51d3f") (collects #"expeditor" #"private" #"param.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax-color" #"color-textoid.rkt"))

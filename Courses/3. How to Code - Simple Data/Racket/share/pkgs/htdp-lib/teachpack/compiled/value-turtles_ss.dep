@@ -1,0 +1,1 @@
+("8.8" ta6nt ("2ede932eabc76f7a70a644ad2cb421f9296890d1" "b5c6518ddfece9a0951b3ac370b94988c77f3315" . "6a5f255c8ec10930dc8aa1d43232cea0afd83d34") (collects #"graphics" #"value-turtles.rkt") (collects #"mzscheme" #"main.rkt"))

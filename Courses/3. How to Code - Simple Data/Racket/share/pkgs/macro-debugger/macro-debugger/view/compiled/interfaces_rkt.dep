@@ -1,0 +1,1 @@
+("8.8" ta6nt ("8613b47e5a9e0b31a85f8dfd339452163daab97b" "2737a0d1f894644e5d55d0af5dcf70dada12ccec" . "86727c2925f3887d13a29096467cafb50fd60bc8") (collects #"macro-debugger" #"syntax-browser" #"interfaces.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class" #"iop.rkt") (collects #"racket" #"runtime-config.rkt"))

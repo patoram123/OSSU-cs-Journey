@@ -1,0 +1,1 @@
+("8.8" ta6nt ("7673427a0515ea15e276fe38900599e2d6a3b3f8" "568bb4feb7d77936faf775f4557f49eb9684ea46" . "9bb9d2e76560e629d09e8d15ea0e8a0d28445163") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scheme" #"runtime-path.rkt") (collects #"slatex" #"slatex-wrapper.rkt") (collects #"tests" #"eli-tester.rkt"))

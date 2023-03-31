@@ -1,0 +1,1 @@
+("8.8" ta6nt ("ebf201513145dcf8381d349822067f9a773dff96" "dd4c69641b93fcc65341fab05ec085f14f2606c2" . "755b1a97c188b73528902fb6d0326ceffe46993f") (collects #"ffi" #"unsafe.rkt") (collects #"mred" #"private" #"wx" #"win32" #"types.rkt") (collects #"mred" #"private" #"wx" #"win32" #"utils.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

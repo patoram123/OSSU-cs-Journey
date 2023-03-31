@@ -1,0 +1,1 @@
+("8.8" ta6nt ("3485e65a12428942cc42274e17a87ca1a7590191" "2081bb19f4a3ff82e542708170995e868ef7a799" . "951b737bf13a7ccc38f65e2d8f52c1098ffa83c7") (collects #"compiler" #"private" #"xform.rkt") (collects #"dynext" #"compile.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"setup" #"dirs.rkt"))

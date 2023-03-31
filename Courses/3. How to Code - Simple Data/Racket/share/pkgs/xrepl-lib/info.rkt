@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "8.8"))) (define collection (quote multi)) (define deps (quote (("base" #:version "8.3.0.2") "readline-lib" "scribble-text-lib"))) (define pkg-desc "implementation (no documentation) part of \"xrepl\"") (define pkg-authors (quote (eli))) (define license (quote (Apache-2.0 OR MIT)))))

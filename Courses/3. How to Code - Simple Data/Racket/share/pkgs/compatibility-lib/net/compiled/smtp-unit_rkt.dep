@@ -1,0 +1,1 @@
+("8.8" ta6nt ("829b06edb36de2f6aa2e538a4fc6a6ce51094457" "e64304fb5e2e0dda345c284697d6c00cb2ce7800" . "acc41354e674868d2c13a6c576897d626cdf94a1") (collects #"net" #"smtp-sig.rkt") (collects #"net" #"smtp.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

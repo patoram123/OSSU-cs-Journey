@@ -1,0 +1,1 @@
+("8.8" ta6nt ("d506002070dbf675bddeaca56f629eb9c1711498" "3444ae48d17f07ad134ade5cbf63649f8df07af1" . "090fc0de4bde3854ec509ec132286489563d69ab") (collects #"mred" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"mzlib" #"kw.rkt") (collects #"mzscheme" #"main.rkt") (collects #"sgl" #"gl-vectors.rkt") (collects #"sgl" #"gl.rkt") (collects #"sgl" #"main.rkt"))

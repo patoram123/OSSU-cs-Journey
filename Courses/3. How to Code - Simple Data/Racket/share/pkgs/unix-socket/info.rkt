@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "8.8"))) (define collection (quote multi)) (define version "1.2") (define deps (quote ("unix-socket-lib" "unix-socket-doc"))) (define implies (quote ("unix-socket-lib"))) (define pkg-authors (quote (ryanc))) (define license (quote (Apache-2.0 OR MIT)))))

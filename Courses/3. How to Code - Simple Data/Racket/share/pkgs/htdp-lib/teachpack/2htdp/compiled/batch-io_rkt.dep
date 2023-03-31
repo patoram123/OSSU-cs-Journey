@@ -1,0 +1,1 @@
+("8.8" ta6nt ("8eba8840f814a33e800924c75f9e1ee1a1e8fb72" "c6a1c61e0dd9f488c1f1e1d07349860e330a9131" . "14856ddd2182624f4fbe55325c10c72a4f986790") (collects #"2htdp" #"batch-io.rkt") (collects #"scheme" #"main.rkt") (collects #"scheme" #"runtime-config.rkt"))

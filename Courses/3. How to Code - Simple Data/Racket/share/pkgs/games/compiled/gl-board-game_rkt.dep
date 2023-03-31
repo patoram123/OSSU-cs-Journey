@@ -1,0 +1,1 @@
+("8.8" ta6nt ("fcf58801c195c2af84190341cb9789bf9ee15bc5" "930ba99f83e4446725eccda8f6bde2ba9b9670fe" . "13884329d24d7d0be12a3396a39ab3895bbeb9cb") (collects #"games" #"gl-board-game" #"gl-board.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

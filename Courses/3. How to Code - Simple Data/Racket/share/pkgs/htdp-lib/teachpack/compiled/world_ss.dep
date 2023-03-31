@@ -1,0 +1,1 @@
+("8.8" ta6nt ("11d15dd537bedd5ab51dfb5608bb59be49c841f6" "cc346589f0a4ea3cd5280ad939f01c3cfcc31b10" . "b84913d80dadae43a38dbfb5cd2d7350e5ca3b82") (collects #"mred" #"mred.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"slideshow" #"main.rkt"))

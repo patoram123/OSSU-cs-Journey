@@ -1,0 +1,1 @@
+("8.8" ta6nt ("246cdf0f2d47d4c5372e3f3e873bcdd96a95efec" "3c115cedf6a2b63800132795c5eadfbdcf1e54ab" . "db51200cf06dc98a1453d0a5dc43159e85286e2d") (collects #"info" #"main.rkt") (collects #"setup" #"infotab.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("068744c81ebbf8d4ea811cec55743bb6b964a836" "e485bd72f09d13609dd9e32fc19cdc18cf827d43" . "622a0144fd2b31e49e2e08ea9e875363d7aa659c") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"modcode.rkt") (collects #"syntax" #"modcollapse.rkt") (collects #"syntax" #"modread.rkt") (collects #"syntax" #"modresolve.rkt"))

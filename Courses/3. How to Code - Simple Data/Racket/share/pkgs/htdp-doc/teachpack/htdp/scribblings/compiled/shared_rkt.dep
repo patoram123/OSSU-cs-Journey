@@ -1,0 +1,1 @@
+("8.8" ta6nt ("d30ecb049d6a44876462cdd9c71c53fc62bff046" "62241fb266d3f7f3c78c5754a91ae1c113b8cb87" . "6cf9285b8847bfded1980837b35b72ecc8d6a480") (collects #"lang" #"htdp-beginner.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"core.rkt") (collects #"scribble" #"html-properties.rkt") (collects #"scribble" #"manual.rkt"))

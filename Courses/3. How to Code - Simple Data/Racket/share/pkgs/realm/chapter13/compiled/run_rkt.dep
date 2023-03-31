@@ -1,0 +1,1 @@
+("8.8" ta6nt ("d053024b381879cea3101e93df780eb53351e63d" "7ccbf6b3b157aae8b0f8483e049b36baa343440c" . "2e8c2e13111dd88ec9aefc4ee8c84db9be050133") (collects #"2htdp" #"universe.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"realm" #"chapter13" #"client.rkt") (collects #"realm" #"chapter13" #"server.rkt"))

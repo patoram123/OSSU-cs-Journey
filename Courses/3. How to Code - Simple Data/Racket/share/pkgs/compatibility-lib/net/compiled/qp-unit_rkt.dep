@@ -1,0 +1,1 @@
+("8.8" ta6nt ("ffda20046018882caaeb58a2a3c94aa67d6884dd" "2cd122424359caec15892fecb1e2af831c47f46e" . "aa9470d39dbe955805f76a561bf09580090ba833") (collects #"net" #"qp-sig.rkt") (collects #"net" #"qp.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

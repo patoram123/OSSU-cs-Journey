@@ -1,0 +1,1 @@
+("8.8" ta6nt ("044ba3e44edd3e462de5c47379af6a1beabc133d" "744aa366b632efbb152d79f8fbfb4b93720ce00e" . "2cb7d676c506e03d8c7192413dcb15145eb978cd") (collects #"graphics" #"graphics-posn-less-unit.rkt") (collects #"graphics" #"graphics-sig.rkt") (collects #"mred" #"mred-sig.rkt") (collects #"mzlib" #"unit.rkt") (collects #"mzscheme" #"main.rkt"))

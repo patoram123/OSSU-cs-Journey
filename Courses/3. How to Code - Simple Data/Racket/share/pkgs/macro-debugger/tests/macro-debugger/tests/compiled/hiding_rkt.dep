@@ -1,0 +1,1 @@
+("8.8" ta6nt ("94134ffa01e72aad0b93fa8d1d2b5696817da16d" "6ae36f277d35c7473ed2c2ecf127b9a924ad74a2" . "2274a4c64392109d7e3cf1955f65b5a4e2775ae4") (collects #"macro-debugger" #"model" #"debug.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt") (collects #"tests" #"macro-debugger" #"test-setup.rkt"))

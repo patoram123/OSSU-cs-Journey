@@ -1,0 +1,1 @@
+("8.8" ta6nt ("799599cd941420b6e1e62fd9e604690c419aad9d" "fcc30c9f225cc7420ef7c7a3d0c874da428a507f" . "b992b108c8ec58567ea7b45468dfe22addc7435b") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scriblib" #"autobib.rkt"))

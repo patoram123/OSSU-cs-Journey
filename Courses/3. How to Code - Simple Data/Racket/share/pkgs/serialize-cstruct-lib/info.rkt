@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "8.8"))) (define collection (quote multi)) (define deps (quote ("base"))) (define pkg-desc "serialization support for C structs") (define pkg-authors (quote ("tobias.hammer@dlr.de"))) (define version "1.1") (define license (quote (Apache-2.0 OR MIT)))))

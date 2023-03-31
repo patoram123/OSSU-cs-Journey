@@ -1,0 +1,1 @@
+("8.8" ta6nt ("9ef72a7300fbdc469a0be034ae19823570110f26" "857cf4cdb580426871b8b3a9ff2b30f8e4cfb9b6" . "45001d60b1a283b4de6df91869f97bab601b877a") (collects #"racket" #"runtime-config.rkt") (collects #"s-exp" #"lang" #"reader.rkt") (collects #"scribblings" #"guide" #"dollar.rkt") (collects #"syntax" #"module-reader.rkt"))

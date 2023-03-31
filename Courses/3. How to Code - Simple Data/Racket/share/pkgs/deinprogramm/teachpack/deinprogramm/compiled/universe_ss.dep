@@ -1,0 +1,1 @@
+("8.8" ta6nt ("14d04eba03421d23326eba785341ce85eb49102a" "177f1bca04b30e8a2f127cb2acb8e534fd441ad2" . "a9f34e9ad14564abcbef307cc52551ad52e55721") (collects #"2htdp" #"universe.rkt") (collects #"mzscheme" #"main.rkt"))

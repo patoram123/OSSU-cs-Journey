@@ -1,0 +1,1 @@
+("8.8" ta6nt ("75465f75c3b866d4734d171eb2137f7fc2b2590f" "b96e650ff0ead3d53dc1888eebf2756d26a4331b" . "85b168461ac0449f0f2380da5244af12b0c19a38") (collects #"datalog" #"ast.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("7360cb02a0adae14cc47e765dd71ed5134274ab7" "ccc4f82216f17b20d1a173494b6da956cd41b694" . "0b1b965ac8dc3c2d11b29d49c001292c94d52e9d") (collects #"lang" #"private" #"firstorder.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"list.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

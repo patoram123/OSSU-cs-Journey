@@ -1,0 +1,1 @@
+("8.8" ta6nt ("de334a9a6cecb2c06ac361c5f308105c08143ff0" "57c5f76e1cbe6a2f305fb18b442d40e83631e985" . "40194a3a6d2d2efaf9b8d81bbf1a14a7ef40b1f3") (collects #"lang" #"private" #"teach.rkt") (collects #"lang" #"private" #"teachprims.rkt") (collects #"scheme" #"main.rkt") (collects #"scheme" #"runtime-config.rkt"))

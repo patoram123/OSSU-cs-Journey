@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "8.8"))) (define collection (quote multi)) (define version "1.0") (define deps (quote ("option-contract-lib" "option-contract-doc"))) (define pkg-authors (quote (chrdimo robby))) (define license (quote (Apache-2.0 OR MIT)))))

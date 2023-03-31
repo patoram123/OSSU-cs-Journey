@@ -1,0 +1,1 @@
+("8.8" ta6nt ("1b048e98a4841e5fc407dc823f5d534d5dc7e5e7" "e837215c125ed6ada696cba7ea07d0963b583955" . "d1e6948d685a6d5c50339a4a6ca64ea885b15c8b") (collects #"racket" #"trait.rkt") (collects #"scheme" #"private" #"provider" #"lang" #"reader.rkt") (collects #"scheme" #"private" #"provider" #"lang.rkt"))

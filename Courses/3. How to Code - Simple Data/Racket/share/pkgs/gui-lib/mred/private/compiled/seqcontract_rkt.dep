@@ -1,0 +1,1 @@
+("8.8" ta6nt ("bb4b8162ffc2af953a3d177e142c7191c7b87c1e" "395e48eaec41814e395e80428de4319a8f0b21c9" . "0ddcd8fc3784bf697974cb8fd28301e8b64fe676") (collects #"mzlib" #"class.rkt") (collects #"mzscheme" #"main.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"syntax" #"stx.rkt"))

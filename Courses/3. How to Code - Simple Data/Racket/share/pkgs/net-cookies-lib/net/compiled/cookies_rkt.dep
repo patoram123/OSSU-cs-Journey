@@ -1,0 +1,1 @@
+("8.8" ta6nt ("3d4d0ca708a26413993d1d8fb946871034f7798d" "21410bc2a3243be28ee556dc2783224f83ca96e8" . "727ef743816a36afa16b6d11e61bbcddd8960621") (collects #"net" #"cookies" #"common.rkt") (collects #"net" #"cookies" #"server.rkt") (collects #"net" #"cookies" #"user-agent.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

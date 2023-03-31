@@ -1,0 +1,1 @@
+("8.8" ta6nt ("83acdeffa74144b94b2817ec7c46bb4f62540f05" "e8d288a35a8abc3c286bc87d13a3c8d581759ce7" . "44fbcfb9982a775ce383017163c7e28b2f1e79db") (collects #"compiler" #"demodularizer" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"cmdline.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"set.rkt") (collects #"raco" #"command-name.rkt"))

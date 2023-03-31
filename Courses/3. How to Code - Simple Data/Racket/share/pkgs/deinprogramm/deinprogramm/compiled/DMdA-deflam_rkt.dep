@@ -1,0 +1,1 @@
+("8.8" ta6nt ("dea22e0915d2c0821620e622c354f6bfe83299d3" "6f417ee969d0d710fa7bf87ed1cec248d3974f36" . "09f47ef3f338d74baf01efa2ec55c9684aa46ccd") (collects #"deinprogramm" #"DMdA" #"lang" #"reader.rkt") (collects #"deinprogramm" #"DMdA" #"private" #"primitives.rkt") (collects #"scheme" #"runtime-config.rkt"))

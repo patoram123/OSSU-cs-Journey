@@ -1,0 +1,1 @@
+("8.8" ta6nt ("212eef91827849ff09135679d7238b0c33718a61" "853248e04620dd33978312af5cb99b11acc25160" . "1053183bedf8630b47c40b2854ba024973c651e9") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"eopl" #"tests" #"chapter3" #"proc-lang" #"ds-rep" #"data-structures.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("aa03bc672afb828b2bead7e8d3a275975a8152d7" "18d0144aea7eab514933037e21606769ef6c0783" . "15d432895d0d60bccfdb52f4564ff4b037c6d452") (collects #"compatibility" #"defmacro.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

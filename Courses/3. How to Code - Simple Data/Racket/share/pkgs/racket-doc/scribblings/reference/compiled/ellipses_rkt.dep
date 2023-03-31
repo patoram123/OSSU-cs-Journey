@@ -1,0 +1,1 @@
+("8.8" ta6nt ("23d8e59c4058d240b90cefb4d6caa49afd6453cd" "765c02eb1dc88b37665df92a923df4e14fafa520" . "543a432054bb514823aac1232bc4f6e5240ebe1d") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"scribble" #"manual.rkt") (collects #"scribblings" #"reference" #"ellipses-defn.rkt"))

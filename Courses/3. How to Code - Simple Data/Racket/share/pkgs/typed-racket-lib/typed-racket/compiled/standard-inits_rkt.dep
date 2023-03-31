@@ -1,0 +1,1 @@
+("8.8" ta6nt ("17a1ca7efbd850baf8885dcb5f98639bb7337457" "0cde1f10e339a4f5fed6215f2622771422f3a074" . "ce44d3ca6fee3639d88920b58838e731459b0319") (collects #"racket" #"base.rkt") (collects #"racket" #"lazy-require.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"typed-racket" #"env" #"env-req.rkt") (collects #"typed-racket" #"utils" #"timing.rkt"))

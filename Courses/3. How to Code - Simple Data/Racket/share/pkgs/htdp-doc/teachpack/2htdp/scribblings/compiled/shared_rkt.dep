@@ -1,0 +1,1 @@
+("8.8" ta6nt ("abc29936f4e1df161661feefb7871ac84f97bdac" "affb9b78854ac418df9f864ee1740e696020afaa" . "8db1b0397c9cc162d0dd6b72ef06d6272d42d3bd") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"teachpack" #"htdp" #"scribblings" #"shared.rkt"))

@@ -1,0 +1,1 @@
+("8.8" ta6nt ("0c23b39191a57b5c0a4b8d4c168f43b75b4eda95" "ecc15455d9d67247fb49cb2f98315e9e522d870e" . "71a4fd62cfd26f7852451af5f1d0edcac5e31fa8") (collects #"racket" #"private" #"define-struct.rkt") (collects #"racket" #"private" #"stxcase-scheme.rkt"))

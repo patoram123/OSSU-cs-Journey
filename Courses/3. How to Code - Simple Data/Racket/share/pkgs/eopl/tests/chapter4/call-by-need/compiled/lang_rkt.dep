@@ -1,0 +1,1 @@
+("8.8" ta6nt ("40a990c06b34efc5b4d3205f4bc939f32033cfb4" "61a572945716f5772d9470446e44e2ca9a62f45e" . "bda7697eaa3a8048975a3a590f972d05123d22ef") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt"))

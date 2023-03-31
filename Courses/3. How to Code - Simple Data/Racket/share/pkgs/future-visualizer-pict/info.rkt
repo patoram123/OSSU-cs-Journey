@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "8.8"))) (define collection (quote multi)) (define deps (quote ("base" "data-lib" "draw-lib" "pict-lib"))) (define pkg-desc "Graphical performance tools for using futures") (define pkg-authors (quote (jamesswaine))) (define license (quote (Apache-2.0 OR MIT)))))

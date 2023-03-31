@@ -1,0 +1,1 @@
+("8.8" ta6nt ("7e48c8582b4fa07e68b0350f7cd0d3e205791c8e" "96e6af0fb1bf2e56df32c9a40279eb8e9fced6c6" . "80805dd2f6653139d672f08d6875fb2efc8c001d") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"slideshow" #"pict.rkt") (collects #"slideshow" #"widescreen" #"base.rkt") (collects #"syntax" #"module-reader.rkt"))
